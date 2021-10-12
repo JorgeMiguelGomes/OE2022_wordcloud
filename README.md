@@ -20,6 +20,7 @@ This script creates a worldcloud, masked on a image, from a txt file
 - The image used to create the mask 
 - The color 
 - The number of maximum words used to generate the WordCloud 
+- The stopwords used 
 
 # Used this script?
 
