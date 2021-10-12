@@ -22,6 +22,10 @@ This script creates a worldcloud, masked on a image, from a txt file
 - The number of maximum words used to generate the WordCloud 
 - The stopwords used 
 
+# Using other masks 
+
+You can see it other examples [here](https://github.com/JorgeMiguelGomes/OE2022_wordcloud/issues/1)
+
 # Used this script?
 
 Please let me know in the comments and leave some examples
